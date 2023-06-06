@@ -1,0 +1,13 @@
+button{
+    font-size: 45px;
+    width: 65px;
+    padding: 5px;
+    margin: 20px;
+    border-radius: 30px;
+    border: none;
+    outline: none;
+}
+.calculator{
+    margin-left: 35%;
+    height: 90vh;
+}
